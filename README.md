@@ -10,3 +10,9 @@ In the words of Abraham Lincoln:
 > pardon my english
 
 My name is vijay and desire to learn web development and bigdata
+
+'''
+ls -lrt /root
+df
+ps -ef
+'''
